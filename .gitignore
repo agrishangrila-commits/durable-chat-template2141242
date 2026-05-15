@@ -162,7 +162,7 @@ dist
 .serverless/
 
 # FuseBox cache
-.fusebox/
+.fusebox/cfdhf
 
 # DynamoDB Local files
 .dynamodb/
